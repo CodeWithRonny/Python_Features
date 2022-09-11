@@ -1,4 +1,7 @@
 # Python Features
+[![Watch the video](https://img.youtube.com/vi/ClKW8duXR-k/hqdefault.jpg)](https://youtu.be/ClKW8duXR-k)
+
+[Download PDF](https://bit.ly/3eJ7k3j)
 
  1. Free And Open Source
  2. Easy To Code
@@ -66,7 +69,7 @@ Python is an object-oriented programming, functional programming, procedural pro
 
 
 
-[Download PDF](https://bit.ly/3eJ7k3j)
+
 
 
 
